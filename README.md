@@ -6,6 +6,6 @@ This is a demo project for the Makers precourse to practice pair programming and
 
 First install [RSpec](http://rspec.info/), then use the `rspec` command as follows:
 ```shell
-bundle install rspec
+gem install rspec
 rspec fizzbuzz.rb
 ```
